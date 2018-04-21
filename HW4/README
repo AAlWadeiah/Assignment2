@@ -1,0 +1,10 @@
+CPSC 331 Assignment 4 April 8, 2018
+Abdullah Al-Wadeiah
+
+HOW TO COMPILE AND RUN
+======================
+1) javac *.java
+2) java PathFinder [option] mazeFile queryFile
+
+- [option] can be: "--weighted" or "--unweighted"
+- include .txt extension for file names
